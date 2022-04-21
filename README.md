@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Akes
-- 👀 I’m interested in innovation and programmatic skills
+- 🙋🏽‍♀️ Hi, I’m Akes
+- 🤓 I’m interested in innovation and programmatic skills
 - 🌱 I’m currently learning anything about programming and algorithms, especially MPC
+- 🔎 I'm searching for some programming lessons/classes (Java Script)
 
 <!---
 Akes94/Akes94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
